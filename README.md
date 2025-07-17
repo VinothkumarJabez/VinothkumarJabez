@@ -6,7 +6,7 @@ My is Jabez, I am using swift 5 since 2020, Done many mini projects in swift 5 a
 - 🌱 I’m currently learning swiftUI.
 - 🎵 Music App [GitHub](https://github.com/VinothkumarJabez/Music)
 - 📫 How to reach me: [Email](vinothkumarjabez@gmail.com)
-⚡ Fun fact: Creating Music in Garageband.
+- ⚡ Fun fact: Creating Music in Garageband.
 <!--
 **VinothkumarJabez/VinothkumarJabez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
