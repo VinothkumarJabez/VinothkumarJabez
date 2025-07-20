@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-My is Jabez, I am using swift 5 since 2020, Done many mini projects in swift 5 apps like Music Apps, Music with lyrics, Colors Collections etc..
+My is Jabez, I am using swift since 2020, Done many mini projects in swift 5 apps like Music Apps, Music with lyrics, Colors Collections etc..
 
 - 🔭 I’m currently looking for full time job.
 - 🌱 I’m currently learning swiftUI.
 - 🎵 Music App [GitHub](https://github.com/VinothkumarJabez/Music)
 - 📫 How to reach me: [Email](vinothkumarjabez@gmail.com)
-- ⚡ Fun fact: Creating Music in Garageband.
+- ⚡ Fun fact: Making Music.
 <!--
 **VinothkumarJabez/VinothkumarJabez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
